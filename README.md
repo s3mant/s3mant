@@ -53,9 +53,9 @@ Tools/Apps with which I use most </><br>
 
 ----
 <a href="https://open.spotify.com/user/zk6h6t97zorjil9k8jj3izle8" target="_blank"> Spotify</a>
-<br></br>
+<br/>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
-</a>
+</a><br/>
 
 ----
 <div align="center">
