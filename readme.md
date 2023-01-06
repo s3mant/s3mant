@@ -18,7 +18,7 @@
 <summary>About Me</summary><br>
 ★ Currently working on websites and APIs<br></br>
 ★ Otaku Weeb<br></br>
-★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://semant.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
+★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://www.semant.is-a.dev">Main Website</a>, <a href="https://semant.is-really.cool">Secondary Website</a>
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
