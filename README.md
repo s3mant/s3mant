@@ -75,7 +75,7 @@ Tools/Apps with which I use most </><br>
 </p>
 A snake eating my contribution graph.
 
-![snake gif](https://github.com/s3mant/s3mant/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/s3mant/s3mant/blob/snake/github-contribution-grid-snake.svg)
 
 
 ----
