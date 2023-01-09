@@ -1,6 +1,5 @@
 name: generate snake
 on:
-  # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *" 
 
