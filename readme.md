@@ -54,8 +54,8 @@ Tools/Apps with which I use most </><br>
 ----
 <a href="https://open.spotify.com/user/zk6h6t97zorjil9k8jj3izle8" target="_blank"> Spotify</a>
 <br/>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
-</a><br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=c33737&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true)
+   <br/>
 
 ----
 <div align="center">
