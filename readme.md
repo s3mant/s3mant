@@ -62,8 +62,8 @@ Tools/Apps with which I use most </><br>
 <a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
 <br/>
 <a href="https://dsc.gg/badboy">
-<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
-<a href="https://discord.com/users/445073800850046977"><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
+<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"/><br/>
+<a href="https://discord.com/users/445073800850046977"><img src="https://lanyard.kyrie25.me/api/445073800850046977?gradient=c92241-941933-6e0b20&waveColor=cc2746&waveSpotifyColor=ad4256&eidleMessage=Living%20Life." /></a>
 </div>
 
 ----
