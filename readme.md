@@ -6,19 +6,19 @@
    <a href="https://dsc.gg/badboy">
    <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
-   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
-   <a />
+<!--    <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
+   <a />  yeah i aint doin this shi anymore-->
    <br>
    <a href="https://discord.com/users/445073800850046977">
    <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
    <a />
 </p>
-<h4 align="center"> Hey I'm Semant, formerly known as Bad Boy, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
+<h4 align="center"> Hey I'm Semant, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
 <details open>
 <summary>About Me</summary><br>
 ★ Currently working on websites and APIs<br></br>
 ★ Otaku Weeb<br></br>
-★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://www.semant.is-a.dev">Main Website</a>, <a href="https://semant.cyclic.app/liquid">Secondary Website</a>
+★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://semant.is-a.dev">Main Website</a>, <a href="https://semant.cyclic.app/liquid">Secondary Website</a>
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
