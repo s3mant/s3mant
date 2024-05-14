@@ -29,8 +29,8 @@
 
 ----
 </p>
-<p align="center">
-Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
+<p align="center">Social and Support: <br><br>
+<!-- <a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a> -->
 <a href="https://instagram.com/semantpanda"><img title="Instagram" src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:contact@semant.is-a.dev"><img title="Email" src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
 <a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
