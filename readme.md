@@ -18,14 +18,14 @@
 <summary>About Me</summary><br>
 ★ Currently working on websites and APIs<br></br>
 ★ Otaku Weeb<br></br>
-★ Websites: <a href="https://api.semant.is-a.dev">Api</a>, <a href="https://semant.is-a.dev">Main Website</a>, <a href="https://semant.cyclic.app/liquid">Secondary Website</a>
+★ Websites: <a href="https://semant.is-a.dev">Main Website</a>, <a href="https://semant.cyclic.app/liquid">Secondary Website</a>
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
    <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
    <a /><a href="https://api.semant.is-a.dev/" target="_blank">
    <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
-   <a />
+   <a /> <a href="https://semant.localplayer.dev/projects">...more</a>
 
 ----
 </p>
