@@ -3,11 +3,11 @@
    <a href="https://github.com/s3mant/">
    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=s3mant&style=flat-square&color=de1032">
    <a />
-   <a href="https://dsc.gg/badboy">
+   <a href="https://dsc.gg/semant">
    <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
-<!--    <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
-   <a />  yeah i aint doin this shi anymore-->
+      <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
+   <a />
    <br>
    <a href="https://discord.com/users/445073800850046977">
    <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
