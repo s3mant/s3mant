@@ -103,7 +103,7 @@
 
 <p align="center" style="color:#8b1e3f; font-weight:600;">🐍 Contribution Snake</p>
 <p align="center">
-  <img alt="Contribution Snake" src="https://github.com/s3mant/s3mant/blob/snake/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/s3mant/s3mant/blob/snake/github-snake.svg" />
 </p>
 
 ---
