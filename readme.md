@@ -29,7 +29,7 @@
     <li>🌍 Visit my sites: 
       <a href="https://semant.localplayer.dev" style="color:#8b1e3f;">Main</a> | 
       <a href="https://semant.is-a.dev/projects" style="color:#8b1e3f;">Projects</a> | 
-      <a href="https://semant.only-fans.club" style="color:#8b1e3f;">Only Fans</a>
+      <a href="https://onlyfans.xxxxx.tw" style="color:#8b1e3f;">Only Fans</a>
     </li>
   </ul>
 </details>
